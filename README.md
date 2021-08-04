@@ -1,4 +1,4 @@
-# Finetuning a Finnish BERT model for text classification
+# Finetuning a Finnish BERT model for text classification with pytorch
 Notebook to finetune Finnish BERT for text classification using data from https://github.com/aajanki/eduskunta-vkk
 
 - BERT achieves a validation accuracy of 0.777 and test accuracy of 0.761
